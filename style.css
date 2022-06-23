@@ -1,0 +1,21 @@
+.heading {
+    font-size: 40px;
+}
+
+body {
+    text-align: center;
+    background: linear-gradient(maroon 0%, green 100%) !important;
+    background-repeat: no-repeat;
+    height: 800px;
+}
+
+h1 {
+    font-family: 'Amita', cursive;
+    color: white;
+}
+
+canvas {
+    border-width: 5px;
+    border-color: deepskyblue;
+    border-style: groove;
+}
